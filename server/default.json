@@ -5,9 +5,10 @@
     "password": "crazynaters",
     "items": [
       {
-        "name": "tableCoffeeGlassSquare",
-        "size": [2, 2],
-        "gridPosition": [25, 25],
+        "name": "rugRounded",
+        "size": [12, 8],
+        "walkable": true,
+        "gridPosition": [28, 28],
         "rotation": 0
       },
       {
@@ -115,6 +116,13 @@
     "password": "crazynaters",
     "items": [
       {
+        "name": "rugRounded",
+        "size": [6, 4],
+        "walkable": true,
+        "gridPosition": [28, 28],
+        "rotation": 0
+      },
+      {
         "name": "washer",
         "size": [2, 2],
         "gridPosition": [12, 0],
@@ -221,6 +229,13 @@
     "name": "KITCHEN",
     "password": "crazynaters",
     "items": [
+      {
+        "name": "rugRounded",
+        "size": [6, 4],
+        "walkable": true,
+        "gridPosition": [28, 28],
+        "rotation": 0
+      },
       {
         "name": "plant",
         "size": [1, 1],
@@ -355,6 +370,13 @@
     "name": "COSY ROOM",
     "password": "crazynaters",
     "items": [
+      {
+        "name": "rugRounded",
+        "size": [6, 4],
+        "walkable": true,
+        "gridPosition": [28, 28],
+        "rotation": 0
+      },
       {
         "name": "tableCoffee",
         "size": [4, 2],
