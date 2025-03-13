@@ -5,6 +5,13 @@
     "password": "crazynaters",
     "items": [
       {
+        "name": "bear",
+        "size": [2, 1],
+        "wall": true,
+        "gridPosition": [30, 20],
+        "rotation": 0
+      },
+      {
         "name": "loungeSofaCorner",
         "size": [5, 5],
         "rotation": 3,
