@@ -6,7 +6,7 @@
     "items": [
       {
         "name": "rugRounded",
-        "size": [12, 8],
+        "size": [24, 16],
         "walkable": true,
         "gridPosition": [28, 28],
         "rotation": 0
