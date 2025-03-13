@@ -5,10 +5,9 @@
     "password": "crazynaters",
     "items": [
       {
-        "name": "bear",
-        "size": [2, 1],
-        "wall": true,
-        "gridPosition": [30, 20],
+        "name": "tableCoffeeGlassSquare",
+        "size": [2, 2],
+        "gridPosition": [25, 25],
         "rotation": 0
       },
       {
