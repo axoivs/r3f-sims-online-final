@@ -39,6 +39,13 @@
         "gridPosition": [5, 1],
         "rotation": 0
       },
+       {
+        "name": "Wall",
+        "size": [1, 10],
+        "wall": true,
+        "gridPosition": [3, 1],
+        "rotation": 0
+      },
       {
         "name": "Wall",
         "size": [1, 10],
