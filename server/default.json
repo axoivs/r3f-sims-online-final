@@ -15,7 +15,7 @@
         "name": "Wall",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [2, 0],
+        "gridPosition": [0, 2],
         "rotation": 0
       }, 
       {
