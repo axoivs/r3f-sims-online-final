@@ -15,56 +15,56 @@
         "name": "Brickwall",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [2, 0],
+        "gridPosition": [2, 1],
         "rotation": 0
       }, 
       {
         "name": "WallModular",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [2, 0],
+        "gridPosition": [2, 2],
         "rotation": 0
       }, 
       {
         "name": "Wall_FirstAge",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [2, 0],
+        "gridPosition": [2, 3],
         "rotation": 0
       }, 
       {
         "name": "WallWindow",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [2, 0],
+        "gridPosition": [2, 4],
         "rotation": 0
       }, 
       {
         "name": "StoneWallTowers",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [2, 0],
+        "gridPosition": [2, 5],
         "rotation": 0
       }, 
       {
         "name": "WindowBars",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [2, 0],
+        "gridPosition": [2, 6],
         "rotation": 0
       }, 
       {
         "name": "Paneling",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [2, 0],
+        "gridPosition": [2, 7],
         "rotation": 0
       }, 
       {
         "name": "Wall",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [2, 0],
+        "gridPosition": [2, 8],
         "rotation": 0
       },  
       {
