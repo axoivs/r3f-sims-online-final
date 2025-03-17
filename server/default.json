@@ -12,7 +12,7 @@
         "rotation": 0
       },
       {
-        "name": "loungeSofaCorner",
+        "name": "CornerWall",
         "size": [5, 5],
         "rotation": 3,
         "gridPosition": [0, 0]
@@ -21,7 +21,7 @@
         "name": "Wall",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [0, 1],
+        "gridPosition": [2, 0],
         "rotation": 0
       }, 
       {
