@@ -9,7 +9,7 @@
         "size": [1, 10],
         "walkable": false,
         "wall": true,
-        "gridPosition": [4, 0],
+        "gridPosition": [4, 3],
         "rotation": 0
       },
       {
