@@ -8,21 +8,14 @@
         "name": "NormalWall",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [0, 3],
+        "gridPosition": [4, 5],
         "rotation": 0
       },
       {
         "name": "Wall",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [0, 1],
-        "rotation": 0
-      },
-      {
-        "name": "Wall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [0, -2],
+        "gridPosition": [0, 7],
         "rotation": 0
       },
       {
