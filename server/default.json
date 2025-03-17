@@ -4,6 +4,13 @@
     "name": "PARTY ROOM",
     "password": "crazynaters",
     "items": [
+       {
+        "name": "Brickwall",
+        "size": [1, 10],
+        "wall": true,
+        "gridPosition": [3, 0],
+        "rotation": 0
+      }, 
       {
         "name": "rugRounded",
         "size": [6, 4],
