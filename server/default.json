@@ -18,10 +18,10 @@
         "gridPosition": [0, 0]
       },
       {
-        "name": "NormalWall",
+        "name": "WallCorner",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [2, 0],
+        "gridPosition": [0, 0],
         "rotation": 0
       },      
       {
