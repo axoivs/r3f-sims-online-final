@@ -7,6 +7,7 @@
        {
         "name": "NormalWall",
         "size": [1, 10],
+        "walkable": false,
         "wall": true,
         "gridPosition": [4, 0],
         "rotation": 0
