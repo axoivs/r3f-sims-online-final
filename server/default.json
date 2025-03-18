@@ -12,10 +12,24 @@
         "rotation": 0
       },
       {
+        "name": "NormalWall",
+        "size": [1, 10],
+        "wall": true,
+        "gridPosition": [8, 1],
+        "rotation": 0
+      },
+      {
         "name": "Wall",
         "size": [1, 10],
         "wall": true,
         "gridPosition": [0, 0],
+        "rotation": 0
+      },
+      {
+        "name": "Wall",
+        "size": [1, 10],
+        "wall": true,
+        "gridPosition": [8, 0],
         "rotation": 0
       },
       {
