@@ -74,7 +74,7 @@ const loadRooms = async () => {
   data.forEach((roomItem) => {
     const room = {
       ...roomItem,
-      size: [70, 70], // HARDCODED FOR SIMPLICITY PURPOSES
+      size: [50, 50], // HARDCODED FOR SIMPLICITY PURPOSES
       gridDivision: 2,
       characters: [],
     };
