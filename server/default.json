@@ -74,8 +74,9 @@
         "wall": true,
         "gridPosition": [0, 12],
         "rotation": 0
-      },
-     
+      }
+    ] 
+  },
   {
     "id": 2,
     "name": "BATHROOM",
