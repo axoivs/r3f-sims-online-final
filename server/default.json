@@ -5,6 +5,12 @@
     "password": "crazynaters",
     "items": [
       {
+        "name": "Tentacle",
+        "size": [4, 2],
+        "gridPosition": [15, 15],
+        "rotation": 0
+      },  
+      {
         "name": "NormalWall",
         "size": [1, 10],
         "wall": true,
