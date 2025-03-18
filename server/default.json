@@ -5,6 +5,13 @@
     "password": "crazynaters",
     "items": [
       {
+        "name": "WoodFloor",
+        "size": [6, 4],
+        "walkable": true,
+        "gridPosition": [1, 1],
+        "rotation": 0
+      },
+      {
         "name": "NormalWall",
         "size": [1, 10],
         "wall": true,
