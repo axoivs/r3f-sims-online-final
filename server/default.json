@@ -457,6 +457,18 @@
     "password": "WAWA",
     "items": [
       {
+        "name": "selena",
+        "size": [4, 2],
+        "gridPosition": [0, 8],
+        "rotation": 0
+      },
+      {
+        "name": "selena2",
+        "size": [4, 2],
+        "gridPosition": [4, 0],
+        "rotation": 0
+      }, 
+      {
         "name": "tableCoffee",
         "size": [4, 2],
         "gridPosition": [5, 4],
