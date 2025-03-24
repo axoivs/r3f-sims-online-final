@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "PARTY ROOM",
+    "name": "1st Level",
     "password": "crazynaters",
     "items": [
       {
@@ -212,7 +212,7 @@
   },
   {
     "id": 2,
-    "name": "BATHROOM",
+    "name": "2nd Level",
     "password": "WAWA",
     "items": [
       {
@@ -319,7 +319,7 @@
   },
   {
     "id": 3,
-    "name": "KITCHEN",
+    "name": "3rd Level",
     "password": "WAWA",
     "items": [
       {
@@ -453,7 +453,7 @@
   },
   {
     "id": 4,
-    "name": "COSY ROOM",
+    "name": "Selena Gomez",
     "password": "WAWA",
     "items": [
       {
