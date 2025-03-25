@@ -145,7 +145,7 @@ export const Lobby = () => {
           letterSpacing={0.012}
         >
           Welcome
-          <meshStandardMaterial color="green" />
+          <meshStandardMaterial color="#90EE90" />
         </Text3D>
 
         <Text3D
@@ -160,7 +160,7 @@ export const Lobby = () => {
           letterSpacing={0.012}
         >
           Crazies
-          <meshStandardMaterial color="green" />
+          <meshStandardMaterial color="#90EE90" />
         </Text3D>
         <Skyscraper scale={1.32} />
         <Skyscraper scale={1} position-x={-3} position-z={-1} />
