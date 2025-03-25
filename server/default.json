@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "1st Level",
+    "name": "3rd Floor",
     "password": "crazynaters",
     "items": [
       {
@@ -212,7 +212,7 @@
   },
   {
     "id": 2,
-    "name": "2nd Level",
+    "name": "2nd Floor",
     "password": "WAWA",
     "items": [
       {
@@ -319,7 +319,7 @@
   },
   {
     "id": 3,
-    "name": "3rd Level",
+    "name": "1st Floor",
     "password": "WAWA",
     "items": [
       {
