@@ -144,8 +144,8 @@ export const Lobby = () => {
           bevelThickness={0.005}
           letterSpacing={0.012}
         >
-          Crazies
-          <meshStandardMaterial color="white" />
+          Welcome
+          <meshStandardMaterial color="#20FF14FF" />
         </Text3D>
 
         <Text3D
@@ -159,8 +159,8 @@ export const Lobby = () => {
           bevelThickness={0.005}
           letterSpacing={0.012}
         >
-          Welcome
-          <meshStandardMaterial color="white" />
+          Crazies
+          <meshStandardMaterial color="#20FF14FF" />
         </Text3D>
         <Skyscraper scale={1.32} />
         <Skyscraper scale={1} position-x={-3} position-z={-1} />
