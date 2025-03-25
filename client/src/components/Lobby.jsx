@@ -107,7 +107,7 @@ export const Lobby = () => {
                 CRAZY
               </h1>
               <p className="text-center text-white">
-                Please select a room to relax
+                Pick a floor any floor.
               </p>
               {rooms.map((room) => (
                 <div
