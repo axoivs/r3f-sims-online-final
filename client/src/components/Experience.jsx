@@ -77,7 +77,7 @@ export const Experience = ({ loaded }) => {
     <>
       <Sky
         distance={450000}
-        sunPosition={[5, 8, 20]}
+        sunPosition={[0, 0, 0]}
         inclination={0}
         azimuth={0.25}
         rayleigh={0.1}
