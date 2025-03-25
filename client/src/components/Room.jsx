@@ -177,7 +177,7 @@ export const Room = () => {
         alphaTest={0.85}
         scale={30}
         position={[0, 0, 0]}
-        color="pink"
+        
       >
         <RandomizedLight
           amount={4}
