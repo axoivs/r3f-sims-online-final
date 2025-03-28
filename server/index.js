@@ -74,7 +74,7 @@ const loadRooms = async () => {
   data.forEach((roomItem) => {
     const room = {
       ...roomItem,
-      size: [1000, 10000], // HARDCODED FOR SIMPLICITY PURPOSES
+      size: [1000, 1000], // HARDCODED FOR SIMPLICITY PURPOSES
       gridDivision: 2,
       characters: [],
     };
@@ -93,7 +93,7 @@ loadRooms();
 
 const generateRandomPosition = (room) => {
   // TO AVOID INFINITE LOOP WE LIMIT TO 100, BEST WOULD BE TO CHECK IF THERE IS ENOUGH SPACE LEFT 🤭
-  for (let i = 0; i < 1000; i++) {
+  for (let i = 0; i < 100; i++) {
     const x = Math.floor(Math.random() * room.size[0] * room.gridDivision);
     const y = Math.floor(Math.random() * room.size[1] * room.gridDivision);
     if (room.grid.isWalkableAt(x, y)) {
