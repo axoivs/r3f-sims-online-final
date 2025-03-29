@@ -107,7 +107,7 @@ export const Lobby = () => {
                 CRAZY
               </h1>
               <p className="text-center text-white">
-                Pick a floor any floor.
+               Please join our <a href="https://crazynaters.com/forum/">Forum!</a>
               </p>
               {rooms.map((room) => (
                 <div
