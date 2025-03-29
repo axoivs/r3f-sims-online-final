@@ -159,7 +159,7 @@ export const Lobby = () => {
           bevelThickness={0.005}
           letterSpacing={0.012}
         >
-          Forum!
+          <a href="https://crazynaters.com/forum/">Forum!</a>
           <meshStandardMaterial color="#90EE90" />
         </Text3D>
         <Skyscraper scale={1.32} />
