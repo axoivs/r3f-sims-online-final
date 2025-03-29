@@ -22,28 +22,8 @@
         "wall": true,
         "gridPosition": [43.5, 0],
         "rotation": 0
-      },
-      {
-        "name": "dirtywall2",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [43.5, 100],
-        "rotation": 0
-      },
-      {
-        "name": "dirtywall2",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [91.2, 43.5],
-        "rotation": 3
-      },
-      {
-        "name": "dirtywall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [-9.1, 43.5],
-        "rotation": 3
       }
+   
       
       
     ] 
