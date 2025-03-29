@@ -9,205 +9,43 @@
         "size": [4, 2],
         "gridPosition": [15, 15],
         "rotation": 0
-      },  
+      },
       {
-        "name": "NormalWall",
+        "name": "bunker",
+        "size": [4, 2],
+        "gridPosition": [50, 50],
+        "rotation": 0
+      },   
+      {
+        "name": "dirtywall",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [4, 2],
+        "gridPosition": [43.5, 0],
         "rotation": 0
       },
       {
-        "name": "NormalWall",
+        "name": "dirtywall2",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [4, 2],
+        "gridPosition": [43.5, 100],
         "rotation": 0
       },
       {
-        "name": "NormalWall",
+        "name": "dirtywall2",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [8, 2],
-        "rotation": 0
+        "gridPosition": [91.2, 43.5],
+        "rotation": 3
       },
       {
-        "name": "NormalWall",
+        "name": "dirtywall",
         "size": [1, 10],
         "wall": true,
-        "gridPosition": [12, 2],
-        "rotation": 0
-      },
-      {
-        "name": "NormalWall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [16, 2],
-        "rotation": 0
-      },
-      {
-        "name": "NormalWall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [20, 2],
-        "rotation": 0
-      },
-      {
-        "name": "NormalWall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [24, 2],
-        "rotation": 0
-      },
-      {
-        "name": "NormalWall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [26, 2],
-        "rotation": 0
-      },
-      
-      {
-        "name": "NormalWall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [4, 30],
-        "rotation": 0
-      },
-      {
-        "name": "NormalWall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [8, 30],
-        "rotation": 0
-      },
-      {
-        "name": "NormalWall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [12, 30],
-        "rotation": 0
-      },
-      {
-        "name": "NormalWall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [20, 30],
-        "rotation": 0
-      },
-      {
-        "name": "NormalWall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [26, 30],
-        "rotation": 0
-      },
-      
-      {
-        "name": "Wall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [30, 0],
-        "rotation": 0
-      },
-      {
-        "name": "Wall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [30, 4],
-        "rotation": 0
-      },
-      {
-        "name": "Wall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [30, 8],
-        "rotation": 0
-      },
-      {
-        "name": "Wall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [30, 12],
-        "rotation": 0
-      },
-      {
-        "name": "Wall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [30, 16],
-        "rotation": 0
-      },
-      {
-        "name": "Wall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [30, 20],
-        "rotation": 0
-      },
-      {
-        "name": "Wall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [30, 23],
-        "rotation": 0
-      },
-      {
-        "name": "Wall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [30, 0],
-        "rotation": 0
-      },
-      {
-        "name": "Wall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [0, 0],
-        "rotation": 0
-      },
-      {
-        "name": "Wall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [0, 4],
-        "rotation": 0
-      },
-      {
-        "name": "Wall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [0, 8],
-        "rotation": 0
-      },
-      {
-        "name": "Wall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [0, 12],
-        "rotation": 0
-      },
-      {
-        "name": "Wall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [0, 16],
-        "rotation": 0
-      },
-      {
-        "name": "Wall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [0, 20],
-        "rotation": 0
-      },
-      {
-        "name": "Wall",
-        "size": [1, 10],
-        "wall": true,
-        "gridPosition": [0, 24],
-        "rotation": 0
+        "gridPosition": [-9.1, 43.5],
+        "rotation": 3
       }
+      
+      
     ] 
   },
   {
