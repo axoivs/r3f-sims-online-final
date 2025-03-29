@@ -137,7 +137,7 @@ export const Lobby = () => {
           font={"fonts/Inter_Bold.json"}
           position-z={1}
           size={0.3}
-          position-x={-2.7}
+          position-x={-2.4}
           castShadow
           rotation-y={Math.PI / 8}
           bevelEnabled
