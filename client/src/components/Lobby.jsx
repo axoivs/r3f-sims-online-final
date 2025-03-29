@@ -135,7 +135,7 @@ export const Lobby = () => {
       <group position-z={-8} rotation-y={Math.PI / 6}>
         <Text3D
           font={"fonts/Inter_Bold.json"}
-          position-z={1.3}
+          position-z={2}
           size={0.3}
           position-x={-1}
           castShadow
