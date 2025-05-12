@@ -11,6 +11,12 @@
         "rotation": 0
       },
       {
+        "name": "shrine",
+        "size": [4, 2],
+        "gridPosition": [10, 10],
+        "rotation": 0
+      },
+      {
         "name": "bunker",
         "size": [4, 2],
         "gridPosition": [50, 50],
