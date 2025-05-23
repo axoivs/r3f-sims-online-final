@@ -5,15 +5,21 @@
     "password": "crazynaters",
     "items": [
       {
-        "name": "Tentacle",
+        "name": "Monument",
         "size": [4, 2],
-        "gridPosition": [15, 15],
+        "gridPosition": [5, 5],
         "rotation": 0
       },
       {
         "name": "shrine",
         "size": [4, 2],
         "gridPosition": [10, 10],
+        "rotation": 0
+      },
+      {
+        "name": "Tentacle",
+        "size": [4, 2],
+        "gridPosition": [15, 15],
         "rotation": 0
       },
       {
