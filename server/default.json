@@ -35,11 +35,11 @@
         "rotation": 0
       },
       {
-        "name": "bunker",
+        "name": "bh",
         "size": [4, 2],
-        "gridPosition": [50, 50],
+        "gridPosition": [30, 30],
         "rotation": 0
-      } 
+      }
        
     ] 
   },
