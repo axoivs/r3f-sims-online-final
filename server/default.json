@@ -45,6 +45,12 @@
         "size": [4, 2],
         "gridPosition": [35, 35],
         "rotation": 0
+      },
+      {
+        "name": "bert",
+        "size": [4, 2],
+        "gridPosition": [40, 40],
+        "rotation": 0
       }
        
     ] 
