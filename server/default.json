@@ -57,6 +57,12 @@
         "size": [4, 2],
         "gridPosition": [45, 45],
         "rotation": 0
+      },
+      {
+        "name": "kt",
+        "size": [4, 2],
+        "gridPosition": [45, 45],
+        "rotation": 0
       }
        
     ] 
