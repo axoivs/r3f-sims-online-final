@@ -81,6 +81,12 @@
         "size": [4, 2],
         "gridPosition": [65, 65],
         "rotation": 0
+      },
+      {
+        "name": "piggy",
+        "size": [4, 2],
+        "gridPosition": [65, 65],
+        "rotation": 0
       }
        
     ] 
