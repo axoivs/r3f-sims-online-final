@@ -35,6 +35,12 @@
         "rotation": 0
       },
       {
+        "name": "gb3",
+        "size": [4, 2],
+        "gridPosition": [25, 25],
+        "rotation": 0
+      },
+      {
         "name": "bh",
         "size": [4, 2],
         "gridPosition": [30, 30],
