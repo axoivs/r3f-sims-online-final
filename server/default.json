@@ -189,6 +189,12 @@
         "size": [4, 2],
         "gridPosition": [65, 35],
         "rotation": 0
+      },
+      {
+        "name": "fox",
+        "size": [4, 2],
+        "gridPosition": [70, 30],
+        "rotation": 0
       }
        
        
