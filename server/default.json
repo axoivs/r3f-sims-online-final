@@ -123,6 +123,12 @@
         "size": [4, 2],
         "gridPosition": [5, 95],
         "rotation": 0
+      },
+      {
+        "name": "gb11",
+        "size": [4, 2],
+        "gridPosition": [10, 90],
+        "rotation": 0
       }
        
     ] 
