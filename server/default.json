@@ -171,6 +171,12 @@
         "size": [4, 2],
         "gridPosition": [45, 55],
         "rotation": 0
+      },
+      {
+        "name": "es",
+        "size": [4, 2],
+        "gridPosition": [55, 45],
+        "rotation": 0
       }
        
        
