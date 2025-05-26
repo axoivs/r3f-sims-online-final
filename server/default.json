@@ -153,6 +153,12 @@
         "size": [4, 2],
         "gridPosition": [30, 70],
         "rotation": 0
+      },
+      {
+        "name": "bella",
+        "size": [4, 2],
+        "gridPosition": [35, 65],
+        "rotation": 0
       }
        
     ] 
