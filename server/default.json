@@ -135,6 +135,12 @@
         "size": [4, 2],
         "gridPosition": [15, 85],
         "rotation": 0
+      },
+      {
+        "name": "gb19",
+        "size": [4, 2],
+        "gridPosition": [15, 85],
+        "rotation": 0
       }
        
     ] 
