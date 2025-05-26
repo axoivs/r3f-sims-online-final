@@ -99,6 +99,12 @@
         "size": [4, 2],
         "gridPosition": [80, 80],
         "rotation": 0
+      },
+      {
+        "name": "sonict",
+        "size": [4, 2],
+        "gridPosition": [85, 85],
+        "rotation": 0
       }
        
     ] 
