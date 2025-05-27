@@ -207,6 +207,12 @@
         "size": [4, 2],
         "gridPosition": [80, 20],
         "rotation": 0
+      },
+      {
+        "name": "alice",
+        "size": [4, 2],
+        "gridPosition": [85, 15],
+        "rotation": 0
       }
        
        
