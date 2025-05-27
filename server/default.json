@@ -231,6 +231,12 @@
         "size": [4, 2],
         "gridPosition": [10, 5],
         "rotation": 0
+      },
+      {
+        "name": "sw",
+        "size": [4, 2],
+        "gridPosition": [15, 5],
+        "rotation": 0
       }
        
        
