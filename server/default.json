@@ -273,6 +273,12 @@
         "size": [4, 2],
         "gridPosition": [45, 5],
         "rotation": 0
+      },
+      {
+        "name": "cind",
+        "size": [4, 2],
+        "gridPosition": [50, 5],
+        "rotation": 0
       }
        
        
