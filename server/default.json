@@ -201,6 +201,12 @@
         "size": [4, 2],
         "gridPosition": [75, 25],
         "rotation": 0
+      },
+      {
+        "name": "wendy",
+        "size": [4, 2],
+        "gridPosition": [80, 20],
+        "rotation": 0
       }
        
        
