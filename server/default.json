@@ -239,6 +239,12 @@
         "rotation": 0
       },
       {
+        "name": "poc",
+        "size": [4, 2],
+        "gridPosition": [20, 5],
+        "rotation": 0
+      },
+      {
         "name": "rap",
         "size": [4, 2],
         "gridPosition": [25, 5],
