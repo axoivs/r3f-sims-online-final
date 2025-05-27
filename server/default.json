@@ -279,6 +279,12 @@
         "size": [4, 2],
         "gridPosition": [50, 5],
         "rotation": 0
+      },
+      {
+        "name": "berry",
+        "size": [4, 2],
+        "gridPosition": [55, 5],
+        "rotation": 0
       }
        
        
