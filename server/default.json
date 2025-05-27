@@ -237,7 +237,14 @@
         "size": [4, 2],
         "gridPosition": [15, 5],
         "rotation": 0
+      },
+      {
+        "name": "raya",
+        "size": [4, 2],
+        "gridPosition": [30, 5],
+        "rotation": 0
       }
+       
        
        
        
