@@ -297,6 +297,12 @@
         "size": [4, 2],
         "gridPosition": [65, 5],
         "rotation": 0
+      },
+      {
+        "name": "reds",
+        "size": [4, 2],
+        "gridPosition": [70, 5],
+        "rotation": 0
       }
       
        
