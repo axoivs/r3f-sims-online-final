@@ -285,6 +285,12 @@
         "size": [4, 2],
         "gridPosition": [55, 5],
         "rotation": 0
+      },
+      {
+        "name": "gizmo",
+        "size": [4, 2],
+        "gridPosition": [60, 5],
+        "rotation": 0
       }
        
        
