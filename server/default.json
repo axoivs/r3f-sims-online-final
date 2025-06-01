@@ -321,6 +321,12 @@
         "size": [4, 2],
         "gridPosition": [85, 5],
         "rotation": 0
+      },
+      {
+        "name": "oblina",
+        "size": [4, 2],
+        "gridPosition": [90, 5],
+        "rotation": 0
       }
       
        
