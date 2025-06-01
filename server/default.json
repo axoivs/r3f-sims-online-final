@@ -315,6 +315,12 @@
         "size": [4, 2],
         "gridPosition": [80, 5],
         "rotation": 0
+      },
+      {
+        "name": "space",
+        "size": [4, 2],
+        "gridPosition": [85, 5],
+        "rotation": 0
       }
       
        
