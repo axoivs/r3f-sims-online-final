@@ -381,7 +381,14 @@
         "size": [4, 2],
         "gridPosition": [60, 10],
         "rotation": 0
+      },
+      {
+        "name": "buzz",
+        "size": [4, 2],
+        "gridPosition": [55, 10],
+        "rotation": 0
       }
+      
       
       
        
