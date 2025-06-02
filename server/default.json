@@ -351,6 +351,12 @@
         "size": [4, 2],
         "gridPosition": [85, 10],
         "rotation": 0
+      },
+      {
+        "name": "slickis",
+        "size": [4, 2],
+        "gridPosition": [80, 10],
+        "rotation": 0
       }
       
       
