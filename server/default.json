@@ -339,6 +339,12 @@
         "size": [4, 2],
         "gridPosition": [95, 10],
         "rotation": 0
+      },
+      {
+        "name": "krumm",
+        "size": [4, 2],
+        "gridPosition": [90, 10],
+        "rotation": 0
       }
       
       
