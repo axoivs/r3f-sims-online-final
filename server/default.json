@@ -363,6 +363,12 @@
         "size": [4, 2],
         "gridPosition": [75, 10],
         "rotation": 0
+      },
+      {
+        "name": "hairyette",
+        "size": [4, 2],
+        "gridPosition": [70, 10],
+        "rotation": 0
       }
       
       
