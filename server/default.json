@@ -357,6 +357,12 @@
         "size": [4, 2],
         "gridPosition": [80, 10],
         "rotation": 0
+      },
+      {
+        "name": "ocka",
+        "size": [4, 2],
+        "gridPosition": [75, 10],
+        "rotation": 0
       }
       
       
