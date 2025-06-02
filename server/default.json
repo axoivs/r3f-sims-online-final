@@ -345,6 +345,12 @@
         "size": [4, 2],
         "gridPosition": [90, 10],
         "rotation": 0
+      },
+      {
+        "name": "zimbo",
+        "size": [4, 2],
+        "gridPosition": [85, 10],
+        "rotation": 0
       }
       
       
