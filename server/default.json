@@ -393,6 +393,12 @@
         "size": [4, 2],
         "gridPosition": [50, 10],
         "rotation": 0
+      },
+      {
+        "name": "starwars",
+        "size": [4, 2],
+        "gridPosition": [35, 10],
+        "rotation": 0
       }
       
       
