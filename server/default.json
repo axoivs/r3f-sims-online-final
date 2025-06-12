@@ -411,13 +411,7 @@
         "size": [4, 2],
         "gridPosition": [25, 10],
         "rotation": 0
-      },
-      {
-        "name": "minion",
-        "size": [4, 2],
-        "gridPosition": [20, 10],
-        "rotation": 0
-      }      
+      }    
       
       
        
