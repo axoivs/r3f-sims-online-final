@@ -399,19 +399,7 @@
         "size": [4, 2],
         "gridPosition": [35, 10],
         "rotation": 0
-      },
-      {
-        "name": "startrek",
-        "size": [4, 2],
-        "gridPosition": [30, 10],
-        "rotation": 0
-      },
-      {
-        "name": "pokemon",
-        "size": [4, 2],
-        "gridPosition": [25, 10],
-        "rotation": 0
-      }   
+      }
       
       
        
